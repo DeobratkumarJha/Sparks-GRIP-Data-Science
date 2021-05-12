@@ -1,2 +1,4 @@
 # Sparks-GRIP-Data-Science
-Project on Machine Learning(Decision tree for Prediction)
+Prediction using Decision Tree 
+Algorithm
+Task 6: To Create the Decision Tree classifier and visualize it graphically. 
